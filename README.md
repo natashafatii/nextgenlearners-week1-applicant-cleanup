@@ -11,16 +11,6 @@
 
 Raw data is never clean. This project takes a bootcamp applicant-tracking dataset riddled with missing values, duplicate submissions, inconsistent formatting, and mistyped columns, and transforms it into an analysis-ready dataset using Pandas — with every cleaning decision explained, not just executed.
 
-## 📑 Table of Contents
-
-- [What's Inside](#-whats-inside)
-- [Repository Structure](#-repository-structure)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Cleaning Process](#-cleaning-process)
-- [Before & After](#-before--after)
-- [Key Takeaways](#-key-takeaways)
-- [License](#-license)
 
 ## ✨ What's Inside
 
